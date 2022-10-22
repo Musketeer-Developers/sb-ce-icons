@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 340" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 340 340">
+  <g>
+    <path d="M0,40v260h340V140v-20V40H0z M320,280H20V140h300V280z M20,120V60h300v60H20z"/>
+    <rect width="40" x="70" y="200" height="20"/>
+    <rect width="40" x="150" y="200" height="20"/>
+    <rect width="40" x="230" y="200" height="20"/>
+  </g>
+</svg>

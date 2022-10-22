@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 360 360">
+  <g>
+    <path d="M0,0v360h360V0H0z M320,40v40h-40V40H320z M220,40v40h-80V40H220z M80,40v40H40V40H80z M40,320V120h280   v200H40z"/>
+    <path d="m80,280h120v-120h-120v120zm40-80h40v40h-40v-40z"/>
+    <rect width="40" x="240" y="160" height="120"/>
+  </g>
+</svg>

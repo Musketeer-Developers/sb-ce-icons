@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 485 485" style="enable-background:new 0 0 485 485;" xml:space="preserve">
+<g>
+	<g id="XMLID_41_">
+		<g>
+			<polygon style="fill:#E7ECED;" points="82.5,232.5 162.5,232.5 162.5,262.5 162.5,292.5 122.5,292.5 122.5,262.5 82.5,262.5 			
+				"/>
+			<rect x="402.5" y="232.5" style="fill:#E7ECED;" width="40" height="60"/>
+			<path style="fill:#AFB6BB;" d="M162.5,232.5h-80v30h40v30h40v-30V232.5z M147.5,162.5h190h50h80c5.5,0,10,4.5,10,10v150
+				c0,5.5-4.5,10-10,10h-10h-430h-10c-5.5,0-10-4.5-10-10v-150c0-5.5,4.5-10,10-10h80H147.5z M442.5,232.5h-40v60h40V232.5z"/>
+			<rect x="27.5" y="332.5" style="fill:#E7ECED;" width="430" height="40"/>
+			<rect x="117.5" y="407.5" style="fill:#7E8488;" width="250" height="65"/>
+			<path style="fill:#AFB6BB;" d="M27.5,477.5v-105h430v105H27.5z M117.5,472.5h250v-65h-250V472.5z"/>
+			<rect x="337.5" y="117.5" style="fill:#E7ECED;" width="50" height="45"/>
+			<rect x="97.5" y="117.5" style="fill:#E7ECED;" width="50" height="45"/>
+			<polygon style="fill:#E7ECED;" points="212.5,87.5 212.5,117.5 147.5,117.5 97.5,117.5 32.5,117.5 32.5,87.5 			"/>
+			<polygon style="fill:#E7ECED;" points="452.5,87.5 452.5,117.5 387.5,117.5 337.5,117.5 272.5,117.5 272.5,87.5 			"/>
+			<rect x="32.5" y="7.5" style="fill:#31C0D8;" width="180" height="80"/>
+			<rect x="272.5" y="7.5" style="fill:#31C0D8;" width="180" height="80"/>
+		</g>
+		<g>
+			<path d="M467.5,155H395v-30h65V0H265v125h65v30H155v-30h65V0H25v125h65v30H17.5C7.851,155,0,162.851,0,172.5v150
+				c0,9.649,7.851,17.5,17.5,17.5H20v145h445V340h2.5c9.649,0,17.5-7.851,17.5-17.5v-150C485,162.851,477.149,155,467.5,155z
+				 M445,15v65H280V15H445z M280,95h165v15H280V95z M345,125h35v30h-35V125z M205,15v65H40V15H205z M40,95h165v15H40V95z M105,125
+				h35v30h-35V125z M125,465v-50h235v50H125z M450,470h-25v-52.5h-15V470h-35v-70H110v70H75v-52.5H60V470H35v-90h415V470z M35,365
+				v-25h415v25H35z M470,322.5c0,1.355-1.145,2.5-2.5,2.5h-450c-1.355,0-2.5-1.145-2.5-2.5v-150c0-1.355,1.145-2.5,2.5-2.5H235
+				v117.5h15V170h217.5c1.355,0,2.5,1.145,2.5,2.5V322.5z"/>
+			<rect x="32.5" y="195" width="20" height="15"/>
+			<rect x="72.5" y="195" width="20" height="15"/>
+			<rect x="112.5" y="195" width="20" height="15"/>
+			<rect x="152.5" y="195" width="20" height="15"/>
+			<rect x="192.5" y="195" width="20" height="15"/>
+			<rect x="32.5" y="225" width="20" height="15"/>
+			<rect x="192.5" y="225" width="20" height="15"/>
+			<rect x="32.5" y="255" width="20" height="15"/>
+			<rect x="192.5" y="255" width="20" height="15"/>
+			<rect x="32.5" y="285" width="20" height="15"/>
+			<rect x="72.5" y="285" width="20" height="15"/>
+			<rect x="192.5" y="285" width="20" height="15"/>
+			<rect x="272.5" y="195" width="20" height="15"/>
+			<rect x="312.5" y="195" width="20" height="15"/>
+			<rect x="352.5" y="195" width="20" height="15"/>
+			<rect x="392.5" y="195" width="20" height="15"/>
+			<rect x="432.5" y="195" width="20" height="15"/>
+			<rect x="272.5" y="225" width="20" height="15"/>
+			<rect x="312.5" y="225" width="20" height="15"/>
+			<rect x="352.5" y="225" width="20" height="15"/>
+			<rect x="272.5" y="255" width="20" height="15"/>
+			<rect x="312.5" y="255" width="20" height="15"/>
+			<rect x="352.5" y="255" width="20" height="15"/>
+			<rect x="272.5" y="285" width="20" height="15"/>
+			<rect x="312.5" y="285" width="20" height="15"/>
+			<rect x="352.5" y="285" width="20" height="15"/>
+			<path d="M395,300h55v-75h-55V300z M410,240h25v45h-25V240z"/>
+			<path d="M75,270h40v30h55v-75H75V270z M90,240h65v45h-25v-30H90V240z"/>
+			<rect x="227.5" y="430" width="30" height="15"/>
+		</g>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

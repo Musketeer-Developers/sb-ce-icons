@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 296 296" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 296 296">
+  <g>
+    <g>
+      <path d="M280,205V57H16v148H0v34h296v-34H280z M32,73h232v116H32V73z M181,205v17h-66v-17H181z"/>
+      <polygon points="206,157 188,157 188,123 156,123 156,157 139,157 139,90 107,90 107,157 89,157 89,106 57,106 57,173 238,173     238,90 206,90   "/>
+    </g>
+  </g>
+</svg>

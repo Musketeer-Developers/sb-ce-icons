@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;" d="M226.462,206.769
+			c0,16.315,13.223,29.538,29.538,29.538c16.315,0,29.538-13.223,29.538-29.538S272.315,177.231,256,177.231
+			C239.685,177.231,226.462,190.454,226.462,206.769L226.462,206.769z"/>
+		<g>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M256,177.231V98.462"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M256,315.077v-78.769"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M226.462,206.769h-78.769
+				"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M364.308,206.769h-78.769
+				"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M256,147.692L226.462,128
+				"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M256,147.692L285.538,128
+				"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M256,265.846
+				l29.538,19.692"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M256,265.846
+				l-29.538,19.692"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M315.077,206.769
+				l19.692-29.538"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M315.077,206.769
+				l19.692,29.538"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M196.923,206.769
+				l-19.692,29.538"/>
+			<path style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;" d="M196.923,206.769
+				l-19.692-29.538"/>
+		</g>
+	</g>
+	<g>
+		<path style="fill:#E4E5E6;" d="M13.273,462.769C5.593,461.41,0,457.088,0,449.29c0-8.871,7.198-16.059,16.059-16.059h479.882
+			c8.871,0,16.059,7.188,16.059,16.059c0,7.798-5.593,12.121-13.273,13.479l-124.574,9.846c-6.518,0.482-11.638,3.584-14.562,9.433
+			c-3.141,6.292-9.561,10.26-16.591,10.26H256h-77.174c-7.01,0-13.42-3.958-16.551-10.23c-2.934-5.858-8.034-9.019-14.582-9.462
+			L13.273,462.769z"/>
+		<path style="fill:#E4E5E6;" d="M162.452,384.583c-27.55-5.514-48.335-27.362-53.11-54.242l-5.888-35.042l-4.352-20.834
+			c-13.42-64.197-14.129-130.412-2.068-194.885l11.274-59.884h295.385l11.274,59.884c12.062,64.473,11.362,130.698-2.058,194.905
+			c-1.408,6.735-2.737,13.095-3.929,18.777c-2.127,10.151-4.51,26.87-6.321,37.09c-4.775,26.88-25.561,48.729-53.11,54.233
+			C287.793,396.93,224.207,396.93,162.452,384.583"/>
+	</g>
+	<g>
+		<path style="fill:#CFD2CF;" d="M170.183,355.808c-0.63,0-1.29-0.059-1.93-0.197c-15.134-3.013-27.126-15.232-29.824-30.415
+			c-0.522-2.934-1.093-6.459-1.694-10.201l-0.443-2.767c-1.418-8.793-2.944-18.255-4.352-25.009
+			c-1.113-5.317,2.304-10.535,7.631-11.638c5.287-1.172,10.535,2.304,11.638,7.621c1.467,6.981,3.052,16.788,4.519,25.895
+			l0.443,2.777c0.591,3.604,1.122,7.001,1.644,9.846c1.29,7.286,7.03,13.135,14.277,14.592c5.337,1.054,8.802,6.242,7.729,11.569
+			C178.897,352.568,174.781,355.808,170.183,355.808"/>
+		<path style="fill:#CFD2CF;" d="M162.452,384.583c-9.088-1.822-17.319-5.583-24.606-10.555v59.205h236.308v-59.205
+			c-7.286,4.972-15.508,8.734-24.606,10.555C287.793,396.93,224.207,396.93,162.452,384.583"/>
+	</g>
+	<g>
+		<polygon style="fill:#F0C419;" points="334.769,78.769 354.462,78.769 354.462,19.692 334.769,19.692 		"/>
+		<polygon style="fill:#F0C419;" points="315.077,88.615 344.615,49.231 374.154,88.615 374.154,147.692 315.077,147.692 		"/>
+	</g>
+	<path style="fill:#CFD2CF;" d="M93.98,98.462H19.69c0,97.959,29.538,176,79.409,176C86.979,216.507,85.335,156.928,93.98,98.462"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

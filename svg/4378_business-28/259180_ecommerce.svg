@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<polygon style="fill:#FFFFFF;" points="257.048,496 158.952,496 168,482.424 168,448 248,448 248,482.424 	"/>
+	<rect x="32" y="384" style="fill:#FFFFFF;" width="352" height="48"/>
+	<path style="fill:#FFFFFF;" d="M384,368H32V176h24v144h208V176h120v32h-72c-13.232,0-24,10.768-24,24v96c0,13.232,10.768,24,24,24
+		h72V368z"/>
+</g>
+<path style="fill:#53B7E8;" d="M488,232v96c0,8.84-7.16,16-16,16H312c-8.84,0-16-7.16-16-16v-96c0-8.84,7.16-16,16-16h160
+	C480.84,216,488,223.16,488,232z"/>
+<g>
+	<rect x="208" y="384" style="fill:#DCDDDE;" width="184" height="48"/>
+	<path style="fill:#DCDDDE;" d="M272,504l-16-24v-40h-48v8h-40v8h24c8.84,0,16,7.16,16,16v32H272z"/>
+</g>
+<rect x="72" y="96" style="fill:#FFD768;" width="176" height="208"/>
+<g>
+	<rect x="448" y="400" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="448" y="368" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="416" y="432" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="448" y="432" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="88" y="336" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="120" y="336" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="152" y="336" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="184" y="336" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="216" y="336" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="200" y="400" style="fill:#0C3847;" width="16" height="16"/>
+	<path style="fill:#0C3847;" d="M472,208h-72v-48H264V80h-56V40h-0.72C203.448,17.336,183.736,0,160,0s-43.448,17.336-47.28,40H112
+		v40H56v80H16v288h136v29.576L129.048,512h157.896L264,477.576V448h136v-96h72c13.232,0,24-10.768,24-24v-96
+		C496,218.768,485.232,208,472,208z M480,232v8H304v-8c0-4.416,3.592-8,8-8h160C476.408,224,480,227.584,480,232z M128,48
+		c0-17.648,14.352-32,32-32s32,14.352,32,32v32h-64V48z M72,96h40v40h16V96h64v40h16V96h40v208H72V96z M257.048,496h-98.096
+		L168,482.424V448h80v34.424L257.048,496z M384,432H32v-48h352V432z M384,368H32V176h24v144h208V176h120v32h-72
+		c-13.232,0-24,10.768-24,24v96c0,13.232,10.768,24,24,24h72V368z M472,336H312c-4.408,0-8-3.584-8-8v-56h176v56
+		C480,332.416,476.408,336,472,336z"/>
+</g>
+<g>
+	<rect x="320" y="304" style="fill:#FFFFFF;" width="64" height="16"/>
+	<rect x="400" y="304" style="fill:#FFFFFF;" width="32" height="16"/>
+</g>
+<g>
+	
+		<rect x="95.431" y="208.005" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 425.8591 255.6131)" style="fill:#0C3847;" width="129.119" height="16"/>
+	<path style="fill:#0C3847;" d="M128,208c13.232,0,24-10.768,24-24s-10.768-24-24-24s-24,10.768-24,24S114.768,208,128,208z
+		 M128,176c4.408,0,8,3.584,8,8s-3.592,8-8,8c-4.408,0-8-3.584-8-8S123.592,176,128,176z"/>
+	<path style="fill:#0C3847;" d="M192,224c-13.232,0-24,10.768-24,24s10.768,24,24,24s24-10.768,24-24S205.232,224,192,224z M192,256
+		c-4.408,0-8-3.584-8-8s3.592-8,8-8s8,3.584,8,8S196.408,256,192,256z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

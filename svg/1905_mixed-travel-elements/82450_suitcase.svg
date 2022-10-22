@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 360 360">
+  <g>
+    <path d="m262.5,0h-165v70h-60v260h50v30h20v-30h145v30h20v-30h50v-260h-60v-70zm-145,20h125v50h-125v-50zm185,290h-245v-220h245v220z"/>
+    <rect width="52.5" x="110" y="140" height="52.5"/>
+    <circle cx="229.375" cy="239.375" r="30.625"/>
+  </g>
+</svg>

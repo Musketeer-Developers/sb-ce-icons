@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<rect x="384" y="288" style="fill:#FAA85F;" width="96" height="16"/>
+	<polygon style="fill:#FAA85F;" points="64,336 64,480 448,480 448,336 416,336 416,384 96,384 96,336 	"/>
+	<rect x="32" y="288" style="fill:#FAA85F;" width="96" height="16"/>
+	<rect x="208" y="208" style="fill:#FAA85F;" width="96" height="144"/>
+</g>
+<polygon style="fill:#FFFFFF;" points="288,176 256,137.6 224,176 "/>
+<polygon style="fill:#72C6EF;" points="272,32 272,64 326.4,64 318.4,48 326.4,32 "/>
+<path style="fill:#FFFFFF;" d="M240,480h32v-32c0-9.6-6.4-16-16-16s-16,6.4-16,16V480z"/>
+<path style="fill:#00384E;" d="M480,224v32h-32v-32h-32v32h-32v-32h-32v32v32v48h32v16h-48V208h17.6L272,105.6V96h105.6l-24-48
+	l24-48H272h-32v96v9.6L158.4,208H176v144h-48v-16h32v-48v-32v-32h-32v32H96v-32H64v32H32v-32H0v32v32v48h32v176h176h96h176V336h32
+	v-48v-32v-32H480z M272,32h54.4l-8,16l8,16H272V32z M256,137.6l30.4,38.4h-60.8L256,137.6z M208,208h96v144h-96V208z M32,288h32h32
+	h32v16H32V288z M240,480v-32c0-9.6,6.4-16,16-16s16,6.4,16,16v32H240z M448,480H304v-32c0-27.2-20.8-48-48-48s-48,20.8-48,48v32H64
+	V336h32v48h80h160h80v-48h32V480z M480,304h-96v-16h32h32h32V304z"/>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>

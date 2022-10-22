@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<circle style="fill:#44C8F5;" cx="128" cy="384" r="120"/>
+<circle style="fill:#67C18C;" cx="384" cy="128" r="120"/>
+<g>
+	<path style="fill:#0C3847;" d="M384,0c-70.576,0-128,57.424-128,128s57.424,128,128,128s128-57.424,128-128S454.576,0,384,0z
+		 M384,240c-61.76,0-112-50.24-112-112S322.24,16,384,16s112,50.24,112,112S445.76,240,384,240z"/>
+	<path style="fill:#0C3847;" d="M128,256C57.424,256,0,313.424,0,384s57.424,128,128,128s128-57.424,128-128S198.576,256,128,256z
+		 M128,496c-61.76,0-112-50.24-112-112s50.24-112,112-112s112,50.24,112,112S189.76,496,128,496z"/>
+</g>
+<g>
+	<path style="fill:#FFFFFF;" d="M416,144c0-13.232-10.768-24-24-24h-16c-4.408,0-8-3.584-8-8s3.592-8,8-8h16h16V88h-16V72h-16v16
+		c-13.232,0-24,10.768-24,24s10.768,24,24,24h16c4.408,0,8,3.584,8,8s-3.592,8-8,8h-16h-16v16h16v16h16v-16
+		C405.232,168,416,157.232,416,144z"/>
+	<path style="fill:#FFFFFF;" d="M160,368v-8c0-17.648-14.352-32-32-32s-32,14.352-32,32H80v16h16v8H80v16h16v8
+		c0,17.648,14.352,32,32,32s32-14.352,32-32v-8h-16v8c0,8.824-7.176,16-16,16s-16-7.176-16-16v-8h24v-16h-24v-8h16v-16h-16
+		c0-8.824,7.176-16,16-16s16,7.176,16,16v8H160z"/>
+</g>
+<g>
+	<path style="fill:#0C3847;" d="M416,304c0,61.76-50.24,112-112,112h-8v16h8c67.888,0,123.608-53.136,127.752-120H464v-16h-48V304z"
+		/>
+	<path style="fill:#0C3847;" d="M296,344v48h8c48.52,0,88-39.48,88-88v-8h-16v8c0,37-28.048,67.56-64,71.552V344H296z"/>
+	<path style="fill:#0C3847;" d="M96,208c0-61.76,50.24-112,112-112h8V80h-8c-67.888,0-123.608,53.136-127.752,120H48v16h48V208z"/>
+	<path style="fill:#0C3847;" d="M216,168v-48h-8c-48.52,0-88,39.48-88,88v8h16v-8c0-37,28.048-67.56,64-71.552V168H216z"/>
+	<rect x="376" y="40" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="376" y="200" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="345.379" y="46.073" transform="matrix(-0.3827 -0.9239 0.9239 -0.3827 438.6571 401.2444)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="406.6" y="193.901" transform="matrix(0.3827 0.9239 -0.9239 0.3827 442.4689 -258.4038)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="319.462" y="63.403" transform="matrix(0.7071 0.7071 -0.7071 0.7071 146.4013 -210.6374)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="432.582" y="176.618" transform="matrix(0.7071 0.7071 -0.7071 0.7071 259.588 -257.4655)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="302.093" y="89.388" transform="matrix(-0.9239 -0.3827 0.3827 -0.9239 559.3122 306.0318)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="449.87" y="150.608" transform="matrix(0.9239 0.3827 -0.3827 0.9239 95.5526 -163.1486)" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="296" y="120" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="456" y="120" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="302.096" y="150.618" transform="matrix(-0.9239 0.3827 -0.3827 -0.9239 657.2896 186.4917)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="449.899" y="89.385" transform="matrix(0.9239 -0.3827 0.3827 0.9239 -2.4115 182.6467)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="319.455" y="176.611" transform="matrix(0.7071 0.7071 -0.7071 0.7071 226.4487 -177.4746)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="432.562" y="63.39" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 701.6071 433.3942)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="345.365" y="193.895" transform="matrix(0.9239 0.3827 -0.3827 0.9239 104.1627 -119.8606)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="406.596" y="46.082" transform="matrix(0.9239 0.3827 -0.3827 0.9239 52.2573 -154.5448)" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="120" y="296" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="120" y="456" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="89.418" y="302.092" transform="matrix(-0.3827 -0.9239 0.9239 -0.3827 -151.7868 518.7636)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="150.634" y="449.888" transform="matrix(0.3827 0.9239 -0.9239 0.3827 520.959 136.1009)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="63.43" y="319.429" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -109.5878 609.4647)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="176.57" y="432.618" transform="matrix(0.7071 0.7071 -0.7071 0.7071 365.6229 -1.4565)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="46.093" y="345.369" transform="matrix(-0.9239 -0.3827 0.3827 -0.9239 -31.1625 700.5388)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="193.919" y="406.621" transform="matrix(0.9239 0.3827 -0.3827 0.9239 174.0424 -45.7103)" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="40" y="376" style="fill:#0C3847;" width="16" height="16"/>
+	<rect x="200" y="376" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="46.093" y="406.628" transform="matrix(-0.9239 0.3827 -0.3827 -0.9239 262.7433 776.9926)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="193.89" y="345.415" transform="matrix(0.3827 0.9239 -0.9239 0.3827 451.1411 31.6447)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="63.426" y="432.611" transform="matrix(0.7071 0.7071 -0.7071 0.7071 332.479 78.5457)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="176.567" y="319.422" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 83.554 689.4523)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="89.393" y="449.899" transform="matrix(0.9239 0.3827 -0.3827 0.9239 182.6473 -2.4145)" style="fill:#0C3847;" width="16" height="16"/>
+	
+		<rect x="150.613" y="302.087" transform="matrix(0.9239 0.3827 -0.3827 0.9239 130.7416 -37.0949)" style="fill:#0C3847;" width="16" height="16"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
